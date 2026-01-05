@@ -1,0 +1,34 @@
+[
+  {
+    "animal_id": "TIGER001",
+    "name": "alkwd",
+    "species": "Tiger",
+    "age": 9,
+    "health_records": [
+      {
+        "date": "2025-10-31T16:52:10.714937",
+        "data": {
+          "weight_kg": 67.0,
+          "temperature_c": 43.0,
+          "heart_rate": 39,
+          "vaccination_status": "current",
+          "vet_notes": "allg"
+        }
+      }
+    ],
+    "current_medications": [],
+    "feeding_history": [
+      {
+        "time": "08:00",
+        "amount_kg": 10.0,
+        "food_type": "Meat",
+        "keeper": "me",
+        "timestamp": "2025-10-31T16:53:12.191073"
+      }
+    ],
+    "diet": "carnivore",
+    "habitat_type": "forest",
+    "temperament": "aggressive",
+    "social_needs": "solitary"
+  }
+]
